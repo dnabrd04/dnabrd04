@@ -1,4 +1,4 @@
-# Hi, I'm diego.
+# Hi, I'm Diego.
 
 
 ## These are the technologies I have used.
@@ -32,4 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+## About me 
+<div>
+  <p>
+      I am an Advanced Technician in Web Applications Development and I am currently studying the second year to become an Advanced Technician in Multiplatform Applications        Development.
+  </p>
+</div>
+
